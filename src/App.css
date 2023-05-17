@@ -1,0 +1,7 @@
+body{background-color: #141E27;}
+.App{max-width: 1200px;margin:50px auto;}
+.searchDiv{padding: 30px;border-radius: 12px;background-color: #203239;margin-bottom: 30px;}
+.searchDiv form{color: #EEEDDE;font-size: 22px;font-weight: 300;display: flex;justify-content: space-between;align-items: center;gap: 30px;}
+.searchDiv form input{background-color: #E0DDAA;border: none; border: none;font-size: inherit;font-weight: inherit;color: #203239;outline: none;border-radius: 12px;flex: 1;padding:12px 22px;}
+.imageList{columns: 20rem 5;}
+.imageList .imageListImg{max-width: 100%;margin-bottom: 20px;}
